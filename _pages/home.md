@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-The Cancer Microstructure Imaging group focuses on developing computational methods for non-invasive quantification of tumour microstructure and their translation into the clinical pathway![image](https://github.com/uclcami/uclcami.github.io/assets/134492495/f9bb7ccb-93e4-457e-acb4-568e2562442c)
+The Cancer Microstructure Imaging group focuses on developing computational methods for non-invasive quantification of tumour microstructure and their translation into the clinical pathway.![image](https://github.com/uclcami/uclcami.github.io/assets/134492495/f9bb7ccb-93e4-457e-acb4-568e2562442c)
 
 
 

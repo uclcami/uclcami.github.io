@@ -1,4 +1,4 @@
-# Allan Lab Website
+# Cancer Microstructure Imaging Group
 
 This is the website of our academic research group at Leiden University.
 

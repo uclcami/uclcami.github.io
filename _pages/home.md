@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.
+Our group's vision is a radically different approach for the clinical cancer diagnostic pathway that couples magnetic resonance imaging (MRI) with mathematical and computational models to infer tissue microstructural changes non-invasively.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -52,10 +52,10 @@ We are a dynamic research group at the [Leiden Institute of Physics](http://www.
   </a>
 </div>
 
-
-
-
-To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
+Currently cancer diagnosis and therapy treatment depends on traditional histology, which is the only way to obtain sufficiently specific information about the cells that make up the tissue to distinguish different cancer types and grades and thus inform the correct treatment. However, histology is an uncomfortable procedure where tissue is extracted with a biopsy needle. It can have permanent and debilitating side effects. Furthermore, because it targets only a small area, it can often miss tumour regions and need to be repeated multiple times. MRI has major potential advantages: i) it operates in vivo, so can be performed on a living organism allowing for both anatomical and functional information, ii) it is non-invasive; completely non-destructive procedure unlike histology, iii) it is innocuous, as it does not require ionising radiation, and iv) allows a non-localised view of the whole organ or region of interest, avoiding false negatives to which biopsy is prone. However current MRI techniques lack discriminatory power. 
+My vision is early, accurate and personalised treatment decisions in cancer without the need for uncomfortable and risky biopsies. I plan to use computational modelling and design leading-edge MRI methods to establish new non-invasive biomarkers that discern morphological tumour heterogeneity. The long-term goal is construction of the next generation of clinical diagnostic tools to replace unnecessary biopsies as the primary diagnostic procedure.
+![image](https://github.com/uclcami/uclcami.github.io/assets/134492495/523832c9-51c2-4fde-90f1-ced3031d566e)
+ (see [Research](research)).
 
 We are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). We exchange ideas and work with our neighbors from [Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home), as well as with the colleagues from our [world-class theory section](https://www.lorentz.leidenuniv.nl).
 

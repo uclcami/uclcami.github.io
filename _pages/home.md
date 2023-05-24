@@ -6,7 +6,8 @@ sitemap: false
 permalink: /
 ---
 
- radically different approach for the clinical cancer diagnostic pathway that couples magnetic resonance imaging (MRI) with mathematical and computational models to infer tissue microstructural changes non-invasively.
+The Cancer Microstructure Imaging group focuses on developing computational methods for non-invasive quantification of tumour microstructure and their translation into the clinical pathway![image](https://github.com/uclcami/uclcami.github.io/assets/134492495/f9bb7ccb-93e4-457e-acb4-568e2562442c)
+
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >

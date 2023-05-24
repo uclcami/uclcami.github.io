@@ -57,7 +57,6 @@ Currently cancer diagnosis and therapy treatment depends on traditional histolog
 
 Our vision is early, accurate and personalised treatment decisions in cancer without the need for uncomfortable and risky biopsies. We  use computational modelling, machine learning and design leading-edge MRI methods to establish new non-invasive biomarkers that discern morphological tumour heterogeneity. The long-term goal is construction of the next generation of clinical diagnostic tools to replace unnecessary biopsies as the primary diagnostic procedure.
 
-![image](https://github.com/uclcami/uclcami.github.io/assets/134492495/523832c9-51c2-4fde-90f1-ced3031d566e)
  (see [Research](research)).
  
  UCL Cami started with an EPSRC-funded fellowship (https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/N021967/1) and has studenships from  EPSRC CDT i4health (https://www.ucl.ac.uk/intelligent-imaging-healthcare/epsrc-centre-doctoral-training-intelligent-integrated-imaging-healthcare-i4health).

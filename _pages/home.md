@@ -1,12 +1,12 @@
 ---
-title: "Cancer Microstructure Imaging Group"
+title: "Computational Cancer Microstructure Imaging Group"
 layout: homelay
-excerpt: "CAMI."
+excerpt: "CCAMI."
 sitemap: false
 permalink: /
 ---
 
-The Cancer Microstructure Imaging group focuses on developing computational methods for non-invasive quantification of tumour microstructure and their translation into the clinical pathway.
+The Computational Cancer Microstructure Imaging group focuses on developing computational methods for non-invasive quantification of tumour microstructure and their translation into the clinical pathway.
 
 
 
@@ -51,7 +51,7 @@ Our vision is early, accurate and personalised treatment decisions in cancer wit
 
  (see [Research](research)).
  
- UCL Cami started with an EPSRC-funded fellowship (https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/N021967/1) and has studenships from  EPSRC CDT i4health (https://www.ucl.ac.uk/intelligent-imaging-healthcare/epsrc-centre-doctoral-training-intelligent-integrated-imaging-healthcare-i4health).
+ UCL Ccami started with an EPSRC-funded fellowship (https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/N021967/1) and has studenships from  EPSRC CDT i4health (https://www.ucl.ac.uk/intelligent-imaging-healthcare/epsrc-centre-doctoral-training-intelligent-integrated-imaging-healthcare-i4health).
 
 We are located at the Centre for Medical Image Computing  (https://www.ucl.ac.uk/medical-image-computing/centre-medical-image-computing-cmic). 
 

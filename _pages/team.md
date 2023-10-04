@@ -20,11 +20,14 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
+  <i>{{ member.info }} 
   
   {% if member.github %}
   <i><a href="{{ member.github }}">Github</a>
   {% endif %}
+
+  {% if member.website %}
+  <i><a href="{{ member.github }}">Personal website</a>
 
   <ul style="overflow: hidden">
 

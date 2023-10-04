@@ -20,6 +20,7 @@
   image: pub3.png
   description: VERDICT (Vascular, Extracellular, and Restricted DIffusion for Cytometry in Tumours) is a diffusion MRI framework for the characterisation of different components of tumours, which has shown diagnostic utility for body cancer. The aim of this study was to extend the VERDICT framework to comprehensively characterise brain tumours, which is challenging due to the complexity of brain tissues. The resulting biomarkers showed agreement with histology and followed the expected trends when comparing different tumour types and sub-regions. These preliminary results hold promise for the non-invasive characterisation of brain tumours by VERDICT-MRI, which would be an important tool for diagnosis and monitoring of treatment effects. 
   authors: Matteo Figini,Antonella Castellano,Michele Bailo,Marcella Callea, Marcello Cadioli, Marcello Cadioli, Samira Bouyagoub, Marco Palombo, Valentina Pieri, Pietro Mortini, Andrea Falini, Daniel C. Alexander, Mara Cercignani and Eleftheria Panagiotaki
+  link:
     url: https://www.mdpi.com/2072-6694/15/9/2490
     display: 	Cancers (2023)
   highlight: 1
@@ -28,6 +29,7 @@
   image: pub4.png
   description: This work presents a biophysical model of diffusion and relaxation MRI for prostate called relaxation vascular, extracellular and restricted diffusion for cytometry in tumours (rVERDICT). The rVERDICT model allows for accurate, fast and repeatable estimation of diffusion and relaxation properties of PCa sensitive enough to discriminate Gleason grades 3+3, 3+4 and larger or equal to 4+3.
   authors: Marco Palombo, Vanya Valindria, Saurabh Singh, Eleni Chiou, Francesco Giganti, Hayley Pye, Hayley C. Whitaker, David Atkinson, Shonit Punwani, Daniel C. Alexander & Eleftheria Panagiotaki 
+  link:
     url: https://www.nature.com/articles/s41598-023-30182-1
     display: Nature (2023)
   highlight: 1
@@ -36,6 +38,7 @@
   image: pub5.jpg
   description: In men suspected of having prostate cancer (PCa), up to 50% of men with positive multiparametric MRI (mpMRI) findings (Prostate Imaging Reporting and Data System [PI-RADS] or Likert score of 3 or higher) have no clinically significant (Gleason score ≤3+3, benign) biopsy findings. Vascular, Extracellular, and Restricted Diffusion for Cytometry in Tumor (VERDICT) MRI analysis could improve the stratification of positive mpMRI findings. We evaluate VERDICT MRI, mpMRI-derived apparent diffusion coefficient (ADC), and prostate-specific antigen density (PSAD) as determinants of clinically significant PCa (csPCa).
   authors: Saurabh Singh , Harriet Rogers, Baris Kanber, Joey Clemente, Hayley Pye, Edward W. Johnston, Tom Parry, Alistair Grey, Eoin Dinneen, Greg Shaw, Susan Heavey, Urszula Stopka-Farooqui, Aiman Haider, Alex Freeman, Francesco Giganti, David Atkinson, Caroline M. Moore, Hayley C. Whitaker, Daniel C. Alexander, Eleftheria Panagiotaki, Shonit Punwani
+  link:
     url: https://pubs.rsna.org/doi/full/10.1148/radiol.212536
     display: Radiology (2022)
   highlight: 1
@@ -45,6 +48,7 @@
   image: pub6.png
   description: False positives on multiparametric MRIs (mp-MRIs) result in many unnecessary invasive biopsies in men with clinically insignificant diseases. This study investigated whether quantitative diffusion MRI could differentiate between false positives, true positives and normal tissue non-invasively. 
   authors: Snigdha Sen, Vanya Valindria, Paddy J. Slator, Hayley Pye, Alistair Grey , Alex Freeman, Caroline Moore, ayley Whitaker, Shonit Punwani, Saurabh Singh and Eleftheria Panagiotaki
+  link:
     url: https://www.mdpi.com/2075-4418/12/7/1631
     display: 	Diagnostics (2022)
   highlight: 1

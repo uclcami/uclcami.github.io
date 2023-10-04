@@ -28,6 +28,7 @@ permalink: /team/
 
   {% if member.website %}
   <i><a href="{{ member.github }}">Personal website</a>
+  {% endif %}
 
   <ul style="overflow: hidden">
 

@@ -9,9 +9,7 @@ permalink: /publications/
 
 # Publications
 
-## Group highlights
-
-**Please see a selections of our  publications. Full list is available on [google scholar](https://scholar.google.co.uk/citations?user=rqSiS9EAAAAJ&hl=en)).**
+**Please see our latest publications. Full list is available on [google scholar](https://scholar.google.co.uk/citations?hl=en&user=rqSiS9EAAAAJ&view_op=list_works&sortby=pubdate)).**
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -51,18 +49,3 @@ permalink: /publications/
 
 <p> &nbsp; </p>
 
-
-
-## Patents
-<em>Milan P Allan, S Gröblacher, RA Norte, M Leeuwenhoek</em><br />Novel atomic force microscopy probes with phononic crystals<br /> PCT/NL20-20/050797 (2020)
-
-<em>Milan P Allan</em><br /> Methods of manufacturing superconductor and phononic elements <br /> <a href="https://patents.google.com/patent/US10439125B2/en?inventor=Milan+ALLAN&oq=inventor:(Milan+ALLAN)">US10439125B2 (2016)</a>
-
-## Full List of publications
-
-{% for publi in site.data.publist %}
-
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-
-{% endfor %}

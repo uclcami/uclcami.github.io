@@ -79,5 +79,5 @@ permalink: /team/
 {% endif %}
 
 
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/group-pic.jpg){: style="width: 100%; float: center; margin: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/group-pic.jpeg){: style="width: 100%; float: center; margin: 10px"}
 

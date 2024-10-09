@@ -2,6 +2,9 @@
   photo: laura.png
   info: Associate professor
   email: e.panagiotaki@ucl.ac.uk
+  number_educ: 2
+  education1: Co-lead of Computational Modelling for Biomedical Imaging (COMP0118)
+  education2: Training lead at tech4health CDT
 
 - name: Snigdha Sen
   photo: snigdha.jpg
@@ -13,6 +16,12 @@
   photo: marta.png
   info: PhD student
   github: https://github.com/Martamasramon
+  number_educ: 1
+  education1: PGTA of Computational Modelling for Biomedical Imaging (COMP0118)
+
+- name: Adam Phipps
+  photo: 
+  info: PhD student
 
 - name: Matteo Figini
   photo: matteo.png

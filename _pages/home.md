@@ -22,7 +22,7 @@ The Computational Cancer Microstructure Imaging group focuses on developing comp
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
-        <div class="item">
+        <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/mould.jpeg" alt="Slide 1" />
         </div>
         <div class="item">

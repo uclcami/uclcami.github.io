@@ -4,7 +4,9 @@
   email: e.panagiotaki@ucl.ac.uk
   number_educ: 2
   education1: Co-lead of Computational Modelling for Biomedical Imaging (COMP0118)
+  educationlink1: https://www.ucl.ac.uk/module-catalogue/modules/computational-modelling-for-biomedical-imaging-COMP0118
   education2: Training lead at tech4health CDT
+  educationlink2: https://www.tech4health.co.uk/
 
 - name: Snigdha Sen
   photo: snigdha.jpg
@@ -18,6 +20,7 @@
   github: https://github.com/Martamasramon
   number_educ: 1
   education1: PGTA of Computational Modelling for Biomedical Imaging (COMP0118)
+  educationlink1: https://www.ucl.ac.uk/module-catalogue/modules/computational-modelling-for-biomedical-imaging-COMP0118
 
 - name: Adam Phipps
   photo: adam.png

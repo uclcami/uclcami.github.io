@@ -33,12 +33,12 @@ permalink: /team/
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
+  <li><a href="{{ member.educationlink1 }}"> {{ member.education1 }} </a> </li>
   {% endif %}
 
   {% if member.number_educ == 2 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
+  <li> <a href="{{ member.educationlink1 }}"> {{ member.education1 }} </a> </li>
+  <li> <a href="{{ member.educationlink2 }}"> {{ member.education2 }} </a> </li>
   {% endif %}
 
   {% if member.number_educ == 3 %}

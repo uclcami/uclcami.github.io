@@ -1,7 +1,7 @@
 ---
-title: "Computational Cancer Microstructure Imaging Group"
+title: "UCL CAMI"
 layout: homelay
-excerpt: "CCAMI."
+excerpt: "UCL CAMI"
 sitemap: false
 permalink: /
 ---

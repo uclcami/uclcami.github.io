@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Pictures"
+title: "UCL CAMI - Pictures"
 layout: piclay
-excerpt: "Allan Lab -- Pictures"
+excerpt: "UCL CAMI -- Pictures"
 permalink: /pictures/
 ---
 

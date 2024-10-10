@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Publications"
+title: "UCL CAMI - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "UCL CAMI -- Publications."
 sitemap: false
 permalink: /publications/
 ---

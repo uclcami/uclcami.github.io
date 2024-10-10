@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Research"
+title: "UCL CAMI - Research"
 layout: textlay
-excerpt: "Allan Lab -- Research"
+excerpt: "UCL CAMI -- Research"
 sitemap: false
 permalink: /research/
 ---

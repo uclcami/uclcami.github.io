@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Team"
+title: "UCL CAMI - Team"
 layout: gridlay
-excerpt: "Allan Lab: Team members"
+excerpt: "UCL CAMI: Team members"
 sitemap: false
 permalink: /team/
 ---

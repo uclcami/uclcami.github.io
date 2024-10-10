@@ -1,6 +1,6 @@
 ---
 title: "UCL CAMI - Research"
-layout: textlay
+layout: researchlay
 excerpt: "UCL CAMI -- Research"
 sitemap: false
 permalink: /research/

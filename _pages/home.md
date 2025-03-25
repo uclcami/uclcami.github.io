@@ -53,9 +53,7 @@ Currently cancer diagnosis and therapy treatment depends on traditional histolog
 
 Our vision is early, accurate and personalised treatment decisions in cancer without the need for uncomfortable and risky biopsies. We  use computational modelling, machine learning and design leading-edge MRI methods to establish new non-invasive biomarkers that discern morphological tumour heterogeneity. The long-term goal is construction of the next generation of clinical diagnostic tools to replace unnecessary biopsies as the primary diagnostic procedure.
 
- (see [Research](research)).
+(see [Research](research)).
  
- UCL Ccami started with an EPSRC-funded fellowship (https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/N021967/1) and has studenships from  EPSRC CDT i4health (https://www.ucl.ac.uk/intelligent-imaging-healthcare/epsrc-centre-doctoral-training-intelligent-integrated-imaging-healthcare-i4health).
-
-We are located at the Centre for Medical Image Computing  (https://www.ucl.ac.uk/medical-image-computing/centre-medical-image-computing-cmic). 
+UCL Ccami started with an <a href="https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/N021967/1">EPSRC-funded fellowship</a>  and has studenships from <a href="https://www.ucl.ac.uk/intelligent-imaging-healthcare/epsrc-centre-doctoral-training-intelligent-integrated-imaging-healthcare-i4health">EPSRC CDT i4health</a>. We are located at the <a href="https://www.ucl.ac.uk/hawkes-institute/">Hawkes Institute</a>.
 

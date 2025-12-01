@@ -6,8 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-The Computational Cancer Microstructure Imaging group focuses on developing computational methods for non-invasive quantification of tumour microstructure and their translation into the clinical pathway.
-
+The Computational Cancer Microstructure Imaging group is a research group in the Hawkes Institute, UCL. Our research focuses on developing computational methods for characterisation of tumours via imaging and the translation of these techniques into the clinical pathway.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -49,9 +48,9 @@ The Computational Cancer Microstructure Imaging group focuses on developing comp
   </a>
 </div>
 
-Currently cancer diagnosis and therapy treatment depends on traditional histology, which is the only way to obtain sufficiently specific information about the cells that make up the tissue to distinguish different cancer types and grades and thus inform the correct treatment. However, histology is an uncomfortable procedure where tissue is extracted with a biopsy needle. It can have permanent and debilitating side effects. Furthermore, because it targets only a small area, it can often miss tumour regions and need to be repeated multiple times. MRI has major potential advantages: i) it operates in vivo, so can be performed on a living organism allowing for both anatomical and functional information, ii) it is non-invasive; completely non-destructive procedure unlike histology, iii) it is innocuous, as it does not require ionising radiation, and iv) allows a non-localised view of the whole organ or region of interest, avoiding false negatives to which biopsy is prone. However current MRI techniques lack discriminatory power. 
+Currently, cancer diagnosis is heavily dependent on histology following invasive biopsy procedures, which can often have severe side effects. In our research, we focus on advanced MRI techniques, which are non-invasive and in-vivo - our work aims to develop computational tools to enhance their discriminatory power. 
 
-Our vision is early, accurate and personalised treatment decisions in cancer without the need for uncomfortable and risky biopsies. We  use computational modelling, machine learning and design leading-edge MRI methods to establish new non-invasive biomarkers that discern morphological tumour heterogeneity. The long-term goal is construction of the next generation of clinical diagnostic tools to replace unnecessary biopsies as the primary diagnostic procedure.
+Our vision is early, accurate and personalised treatment decisions in cancer without the need for uncomfortable and risky biopsies. We  use computational modelling and machine learning to design cutting-edge MRI methods to establish new imaging biomarkers and transform patient care. The long-term goal is construction of the next generation of clinical diagnostic tools to replace unnecessary biopsies as the primary diagnostic procedure.
 
 (see [Research](research)).
  

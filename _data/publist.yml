@@ -1,6 +1,6 @@
 - title: "Prostate MR image quality of apparent diffusion coefficient maps versus fractional intracellular volume maps from VERDICT MRI using the PI-QUAL score and a dedicated Likert scale for artefacts"
   image: pub1.jpg
-  description: This study aimed to assess the image quality of apparent diffusion coefficient (ADC) maps derived from conventional diffusion-weighted MRI and fractional intracellular volume maps (FIC) from VERDICT MRI (Vascular, Extracellular, Restricted Diffusion for Cytometry in Tumours) in patients from the INNOVATE trial. The inter-reader agreement was also assessed.
+  description: This study aimed to assess the image quality of apparent diffusion coefficient (ADC) maps derived from conventional diffusion-weighted MRI and fractional intracellular volume maps (FIC) from VERDICT MRI (Vascular, Extracellular, Restricted Diffusion for Cytometry in Tumours) in patients from the INNOVATE trial. 
   authors: Saurabh Singh, Francesco Giganti, Louise Dickinson, Harriet Rogers, Baris Kanber, Joey Clemente, Hayley Pye, Susan Heavey, Urszula Stopka-Farooqui, Edward W. Johnston, Caroline M Moore, Alex Freeman, Hayley C Whitaker, Daniel C Alexander, Eleftheria Panagiotaki, Shonit Punwani
   link:
     url: https://www.sciencedirect.com/science/article/pii/S0720048X23004230
@@ -9,7 +9,7 @@
 
 - title: "ssVERDICT: Self-Supervised VERDICT-MRI for Enhanced Prostate Tumour Characterisation"
   image: pub2.png
-  description: Demonstrating and assessing self-supervised machine learning fitting of the VERDICT (Vascular, Extracellular and Restricted DIffusion for Cytometry in Tumours) model for prostate.
+  description: This study develops a self-supervised machine learning method to fit the VERDICT model for prostate, showing improved performance in comparison to traditional and supervised deep learning methods on both simulated and real patient data. 
   authors: Snigdha Sen, Saurabh Singh, Hayley Pye, Caroline M. Moore, Hayley Whitaker, Shonit Punwani, David Atkinson, Eleftheria Panagiotaki1, and Paddy J.Slator
   link:
     url: https://arxiv.org/abs/2309.06268
@@ -18,7 +18,7 @@
 
 - title: "Comprehensive Brain Tumour Characterisation with VERDICT-MRI: Evaluation of Cellular and Vascular Measures Validated by Histology"
   image: pub3.png
-  description: VERDICT (Vascular, Extracellular, and Restricted DIffusion for Cytometry in Tumours) is a diffusion MRI framework for the characterisation of different components of tumours, which has shown diagnostic utility for body cancer. The aim of this study was to extend the VERDICT framework to comprehensively characterise brain tumours, which is challenging due to the complexity of brain tissues. The resulting biomarkers showed agreement with histology and followed the expected trends when comparing different tumour types and sub-regions. These preliminary results hold promise for the non-invasive characterisation of brain tumours by VERDICT-MRI, which would be an important tool for diagnosis and monitoring of treatment effects. 
+  description: VERDICT is a diffusion MRI framework for the characterisation of different components of tumours, which has shown diagnostic utility for body cancer. This study extends the VERDICT framework to comprehensively characterise brain tumours. 
   authors: Matteo Figini,Antonella Castellano,Michele Bailo,Marcella Callea, Marcello Cadioli, Marcello Cadioli, Samira Bouyagoub, Marco Palombo, Valentina Pieri, Pietro Mortini, Andrea Falini, Daniel C. Alexander, Mara Cercignani and Eleftheria Panagiotaki
   link:
     url: https://www.mdpi.com/2072-6694/15/9/2490
@@ -27,7 +27,7 @@
 
 - title: "Joint estimation of relaxation and diffusion tissue parameters for prostate cancer with relaxation-VERDICT MRI"
   image: pub4.png
-  description: This work presents a biophysical model of diffusion and relaxation MRI for prostate called relaxation vascular, extracellular and restricted diffusion for cytometry in tumours (rVERDICT). The rVERDICT model allows for accurate, fast and repeatable estimation of diffusion and relaxation properties of PCa sensitive enough to discriminate Gleason grades 3+3, 3+4 and larger or equal to 4+3.
+  description: This work presents a biophysical model of diffusion and relaxation MRI for prostate called relaxation VERDICT (rVERDICT). The rVERDICT model allows for  estimation of diffusion and relaxation properties of PCa sensitive enough to discriminate Gleason grades 3+3, 3+4 and larger or equal to 4+3.
   authors: Marco Palombo, Vanya Valindria, Saurabh Singh, Eleni Chiou, Francesco Giganti, Hayley Pye, Hayley C. Whitaker, David Atkinson, Shonit Punwani, Daniel C. Alexander & Eleftheria Panagiotaki 
   link:
     url: https://www.nature.com/articles/s41598-023-30182-1
@@ -36,7 +36,7 @@
 
 - title: "Avoiding Unnecessary Biopsy after Multiparametric Prostate MRI with VERDICT Analysis: The INNOVATE Study"
   image: pub5.jpeg
-  description: In men suspected of having prostate cancer (PCa), up to 50% of men with positive multiparametric MRI (mpMRI) findings (Prostate Imaging Reporting and Data System [PI-RADS] or Likert score of 3 or higher) have no clinically significant (Gleason score ≤3+3, benign) biopsy findings. Vascular, Extracellular, and Restricted Diffusion for Cytometry in Tumor (VERDICT) MRI analysis could improve the stratification of positive mpMRI findings. We evaluate VERDICT MRI, mpMRI-derived apparent diffusion coefficient (ADC), and prostate-specific antigen density (PSAD) as determinants of clinically significant PCa (csPCa).
+  description: This study evaluates VERDICT MRI, mpMRI-derived apparent diffusion coefficient (ADC), and prostate-specific antigen density (PSAD) as determinants of clinically significant PCa (csPCa), aiming to reduce the number of invasive procedures taking place.
   authors: Saurabh Singh , Harriet Rogers, Baris Kanber, Joey Clemente, Hayley Pye, Edward W. Johnston, Tom Parry, Alistair Grey, Eoin Dinneen, Greg Shaw, Susan Heavey, Urszula Stopka-Farooqui, Aiman Haider, Alex Freeman, Francesco Giganti, David Atkinson, Caroline M. Moore, Hayley C. Whitaker, Daniel C. Alexander, Eleftheria Panagiotaki, Shonit Punwani
   link:
     url: https://pubs.rsna.org/doi/full/10.1148/radiol.212536

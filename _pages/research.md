@@ -16,7 +16,7 @@ An example is the VERDICT model, a biophysical model derived from a unique DWI a
 
 VERDICT-MRI has been shown to provide more microstructural feature information than images derived from similar models [1,2]. It has been specifically designed to characterise prostate tissue, providing an accurate diagnosis from MRI and preventing unnecessary biopsies [3]. The model parameters have direct relevance to the tissue microstructure; these include intracellular volume faction (fIC), vascular volume fraction (fVASC), extracellular-extravascular volume fraction (fEES) and cell radius (R). The fIC and R maps can therefore be used to estimate cell density in the prostate and, consequently, detect PCa.
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/verdict-example.png){: style="width: 1000%; float: left; margin: 10px  10px"}  
+![]({{ site.url }}{{ site.baseurl }}/images/respic/verdict-example.png){: style="width: 100%; float: left; margin: 10px  10px"}  
 
 This work has been expanded to two main clinical trials, that focus on validating VERDICT-MRI for PCa discrimination:  
 • INNOVATE [3] (April 2016 to December 2019): men suspected of having PCa were prospectively recruited from two centres and underwent VERDICT MRI and mpMRI before undergoing targeted biopsy. The ADC, fractional intracellular volume (FIC), and prostate-specific antigen (PSA) density of the biopsied lesions were compared between men with csPCa and those without csPCa to test the diagnostic performance of each metric.  

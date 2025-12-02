@@ -30,6 +30,18 @@ This data has led to a series of studies that validate the VERDICT-MRI derived m
 
 More recent papers have further demonstrated the usability of VERDICT-MRI derived maps. Singh et al. showed in 2022 that fIC maps were better suited for classification into csPCa and non-csPCa than ADC and PSA density levels [3]. In particular, it was the only one that was able to discriminate lesions that scored 3 on the Likert scale. Sen et al. then showed that model-based methods such as VERDICT-MRI produced significant differences between false positives and normal tissue [9]. The in-vivo maps were also validated by comparison to volume fractions derived from histology images [10], after visual co-registration. Finally, a new version of the VERDICT model was created [11]. The parameter maps derived from this model outperformed the standard VERDICT-MRI and the ADC maps in the task of Gleason grade discrimination (between 3+3, 3+4 and ≥ 3 + 4). 
 
+### READ IT BEFORE THE JOURNAL!!
+
+A selection of our most up to date work:
+
+Masramon, M., Mathew, M., Singh, S., Mertzanidou, T., Clemente, J., Retter, A., . . . Panagiotaki, E. (2025). Validating the biological origin of in vivo fractional intracellular volume from VERDICT-MRI in the prostate. Doi:10.21203/rs.3.rs-7723707/v1    
+
+Sen, S., Smith, L., Caselton, L., Clemente, J., Tran, M., Punwani, S., . . . Panagiotaki, E. (2025). Dual Deep Learning Approach for Non-invasive Renal Tumour Subtyping with VERDICT-MRI. Retrieved from http://arxiv.org/abs/2504.07246v2    
+
+Jin, C., Tanno, R., Mertzanidou, T., Panagiotaki, E., & Alexander, D. C. (2021). Learning to Downsample for Segmentation of Ultra-High Resolution Images. Doi:10.48550/arXiv.2109.11071      
+
+Chiou, E., Giganti, F., Punwani, S., Kokkinos, I., & Panagiotaki, E. (2021). Unsupervised Domain Adaptation with Semantic Consistency across Heterogeneous Modalities for MRI Prostate Lesion Segmentation.    
+
 ### Further Reading
 
 

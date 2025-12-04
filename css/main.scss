@@ -1,3 +1,6 @@
+---
+---
+    
 @import "bootstrap";
 
 img { margin-bottom: 24px; 
@@ -88,9 +91,9 @@ firstp {
     margin-right: 30px;
 }
 
-.carousel-inner .item img {
+.carousel-inner > .item > img {
     width: 100%;
-    height: 420px;  
+    height: 420px;
     object-fit: cover;
-    display: block;
+	display: block;
 }

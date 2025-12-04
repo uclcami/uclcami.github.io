@@ -26,16 +26,22 @@ The Computational Cancer Microstructure Imaging group is a research group in the
             <img src="{{ site.url }}{{ site.baseurl }}/images/mould.png" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/micro1.png" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/brain.png" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/bloomsbury.jpeg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/rVERDICT.png" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/micro2.png" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/brain2.png" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/hackathon.png" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/validation.jpg" alt="Slide 5" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/verdict-example.jpeg" alt="Slide 6" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/rVERDICT2.png" alt="Slide 7" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">

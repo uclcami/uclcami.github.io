@@ -1,3 +1,21 @@
+- title: "Validating the biological origin of in vivo fractional intracellular volume from VERDICT-MRI in the prostate."
+  image: masramon_2025.jpg
+  description: This study demonstrates strong correlations between in-vivo VERDICT fIC and histological epithelial fraction and cell density using whole-mount prostatectomy specimens, confirming fIC as a biologically grounded marker of tumour cellularity.
+  authors: Marta Masramon, Manju Mathew, Saurabh Singh, Thomy Mertzanidou, Joey Clemente, Adam Retter, Natasha Thorley, Adam Phipps, Thomas Parry, Marianthi-Vasiliki Papoutsaki, Lorna Smith, Francesco Grussu, Veeru Kasivisvanathan, Alistair Grey, Eoin Dinneen, Greg Shaw, Dominic Patel, Lucy Caselton, Caroline M. Moore, David Atkinson, Aiman Haider, Alex Freeman, Daniel C. Alexander, Shonit Punwani, Eleftheria Panagiotaki
+  link:
+    url: https://www.researchsquare.com/article/rs-7723707/v1
+    display: Preprint - Research Square (2025)
+  highlight: 1
+  
+- title: "Dual Deep Learning for Renal Tumour Subtyping with VERDICT-MRI"
+  image: sen_2025.jpg
+  description: This study introduces a dual deep-learning pipeline for renal VERDICT-MRI, showing improved model fitting, significant parameter differences between tumour and normal tissue, and identifying a shortened acquisition protocol for clinical use.
+  authors: Snigdha Sen, Lorna Smith, Lucy Caselton, Joey Clemente, Maxine Tran, Shonit Punwani, David Atkinson, Richard L Hesketh, Eleftheria Panagiotaki
+  link:
+    url: https://arxiv.org/abs/2504.07246
+    display: Preprint - arXiv (2025)
+  highlight: 1
+  
 - title: "Prostate MR image quality of apparent diffusion coefficient maps versus fractional intracellular volume maps from VERDICT MRI using the PI-QUAL score and a dedicated Likert scale for artefacts"
   image: pub1.jpg
   description: This study aimed to assess the image quality of apparent diffusion coefficient (ADC) maps derived from conventional diffusion-weighted MRI and fractional intracellular volume maps (FIC) from VERDICT MRI (Vascular, Extracellular, Restricted Diffusion for Cytometry in Tumours) in patients from the INNOVATE trial. 

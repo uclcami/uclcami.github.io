@@ -97,3 +97,12 @@ firstp {
     object-fit: cover;
 	display: block;
 }
+
+.team-photo {
+    width: 150px;         
+    height: 180px;        
+    object-fit: cover;    
+    border-radius: 10%;   
+    margin-right: 12px;  
+    float: left;
+}
